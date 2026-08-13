@@ -31,13 +31,3 @@ This repo contains my Linear-DSA and Non-Linear-DSA assignments from semester 1 
 
 ## LeetCode
 My goal is to solve problems relevant to these topics on LeetCode. This will work hand in hand as my notes and foundational knowledge will help me to solve LeetCode problems.
-
-## College work
-
-### LDSA - Year 2 Semester 1
-Assignment 1 topics -  Linked Lists, Stacks & Queues
-Assignment 2 topics - Divide & conquer and greedy algorithms
-
-### NLDSA - Year 2 Semester 2
-Assignment 1 topics - Graphs & Trees
-Assignment 2 topics - Backtracking Search & Dynamic Programming
