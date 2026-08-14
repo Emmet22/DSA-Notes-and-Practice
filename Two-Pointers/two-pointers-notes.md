@@ -29,19 +29,3 @@ Time:
 
 Space:
 - O(1) as you don't create another array
-
-## Example pseudocode
-
-#### This is for opposite direction pointers
-left = first index
-right = last index
-
-While left < right:
-  examine left and right
-
-  if condition is satisfied:
-    return/etc.
-  else if larger value is needed:
-    move left forward
-  else
-    move right backwards
